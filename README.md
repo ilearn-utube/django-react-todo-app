@@ -66,7 +66,7 @@ Basic Stuff to Work:
 After downloading the code from this repository, 
 goto directory: `todo/reactapp` run below cmd
 
-`npm i node_modules`
+`npm i node-modules`
 
 
 
