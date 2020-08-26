@@ -61,3 +61,14 @@ Basic Stuff to Work:
         git push -u origin master 
        </pre>
  
+
+#### Note: 
+After downloading the code from this repository, 
+goto directory: `todo/reactapp` run below cmd
+
+`npm i node_modules`
+
+
+
+
+
